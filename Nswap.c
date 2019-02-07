@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<conio.h>
-
 int main(void)
 {
   int a,b,temp;
@@ -9,6 +8,5 @@ int main(void)
   a=b;
   b=temp;
   printf("%d %d",a,b);
-  
 return 0;
 }
